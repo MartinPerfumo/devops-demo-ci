@@ -1,8 +1,6 @@
-import sys
 
 def main():
-    print("Este test va a fallar")
-    sys.exit(1)  # Simula un fallo
+    print("Hola desde CI/CD")
 
 if __name__ == "__main__":
     main()
